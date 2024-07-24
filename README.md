@@ -9,6 +9,6 @@ Used Tableau software to carry out Unsupervised Clustering Model on harry_person
 ### Ravenclaw: Intelligence, knowledge , planning ahead, and wit - mapped to yellow cluster linked to personality traits of high conscientiousness, high emotional stability, agreeableness.
 ### Slytherin: Ambition, cunningness, heritage and resourcefulness - mapped to green cluster linked to personality traits of psychopathy, narcissim, machiavellianism and low agreeableness.
 
-Harry-Potter-House-Sorting-Clustering-Model
+## Harry-Potter-House-Sorting-Clustering-Model
 ![image](https://github.com/user-attachments/assets/f8ee608c-c061-4793-8b9c-3176f2b15493)
 
